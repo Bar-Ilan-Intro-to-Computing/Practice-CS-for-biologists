@@ -13,3 +13,6 @@ https://colab.research.google.com/github/Bar-Ilan-Intro-to-Computing/Practice-CS
 
 python basics:
 https://colab.research.google.com/github/Bar-Ilan-Intro-to-Computing/Practice-CS-for-biologists/blob/main/Practice_02_Python_Basics_Interactive.ipynb
+
+practice 3:
+https://colab.research.google.com/github/Bar-Ilan-Intro-to-Computing/Practice-CS-for-biologists/blob/main/Practice_03_Structured_Interactive_Notebook.ipynb
